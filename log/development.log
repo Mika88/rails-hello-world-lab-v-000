@@ -563,3 +563,9 @@ Started GET "/hello_world" for 100.1.168.30 at 2018-12-17 19:11:27 +0000
 Processing by StaticController#hello_world as HTML
   Rendered static/hello_world.html.erb within layouts/application (0.1ms)
 Completed 200 OK in 36ms (Views: 21.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/hello_world" for 100.1.168.30 at 2018-12-17 19:14:22 +0000
+Processing by StaticController#hello_world as HTML
+  Rendered static/hello_world.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 38ms (Views: 36.8ms | ActiveRecord: 0.0ms)
